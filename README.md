@@ -1,4 +1,16 @@
-### Hi there 👋
+###  Dokümanlar
+
+## Cudf
+
+## Cupy
+
+## Cuml
+
+## Derin Öğrenme
+
+###  Duyurular
+
+Discord sunucumuz: https://discord.gg/vGyD8ZAN
 
 <!--
 **rapidstr/rapidstr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
