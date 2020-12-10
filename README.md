@@ -1,16 +1,33 @@
-###  Dokümanlar
+###  🔸Dokümanlar
 
-## Cudf
+## ✅Cudf
 
-## Cupy
+- https://github.com/rapidsai/cudf
 
-## Cuml
+
+## ✅Cupy
+
+- https://github.com/cupy/cupy
+
+
+## ✅Cuml
+
+- https://github.com/rapidsai/cuml
+
 
 ## Derin Öğrenme
 
-###  Duyurular
+## RAPIDS
+<details>
 
-Discord sunucumuz: https://discord.gg/vGyD8ZAN
+<summary>🚀İşinize Yarayabilecek Linkler</summary>
+ - 📕[API Dökümanı](https://docs.rapids.ai/start)
+</details>
+
+
+##  Duyurular
+
+Discord sunucumuza katılmak için [tıkalyınız](https://discord.gg/vGyD8ZAN)
 
 <!--
 **rapidstr/rapidstr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
